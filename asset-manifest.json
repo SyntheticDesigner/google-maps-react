@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/google-maps-react/static/css/main.6bf553cc.css",
+    "main.js": "/github.io/google-maps-react/static/js/main.a1d4fceb.js",
+    "static/js/787.fb8b942e.chunk.js": "/github.io/google-maps-react/static/js/787.fb8b942e.chunk.js",
+    "index.html": "/github.io/google-maps-react/index.html",
+    "main.6bf553cc.css.map": "/github.io/google-maps-react/static/css/main.6bf553cc.css.map",
+    "main.a1d4fceb.js.map": "/github.io/google-maps-react/static/js/main.a1d4fceb.js.map",
+    "787.fb8b942e.chunk.js.map": "/github.io/google-maps-react/static/js/787.fb8b942e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bf553cc.css",
+    "static/js/main.a1d4fceb.js"
+  ]
+}
