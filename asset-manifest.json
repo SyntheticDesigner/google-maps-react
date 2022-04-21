@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/google-maps-react/static/css/main.506ffaca.css",
-    "main.js": "/github.io/google-maps-react/static/js/main.96cf2296.js",
-    "static/js/787.fb8b942e.chunk.js": "/github.io/google-maps-react/static/js/787.fb8b942e.chunk.js",
-    "index.html": "/github.io/google-maps-react/index.html",
-    "main.506ffaca.css.map": "/github.io/google-maps-react/static/css/main.506ffaca.css.map",
-    "main.96cf2296.js.map": "/github.io/google-maps-react/static/js/main.96cf2296.js.map",
-    "787.fb8b942e.chunk.js.map": "/github.io/google-maps-react/static/js/787.fb8b942e.chunk.js.map"
+    "main.css": "/google-maps-react/static/css/main.506ffaca.css",
+    "main.js": "/google-maps-react/static/js/main.183da7ef.js",
+    "static/js/787.fb8b942e.chunk.js": "/google-maps-react/static/js/787.fb8b942e.chunk.js",
+    "index.html": "/google-maps-react/index.html",
+    "main.506ffaca.css.map": "/google-maps-react/static/css/main.506ffaca.css.map",
+    "main.183da7ef.js.map": "/google-maps-react/static/js/main.183da7ef.js.map",
+    "787.fb8b942e.chunk.js.map": "/google-maps-react/static/js/787.fb8b942e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.506ffaca.css",
-    "static/js/main.96cf2296.js"
+    "static/js/main.183da7ef.js"
   ]
 }
